@@ -84,6 +84,9 @@ Onde:
 
 O fluxo de controle do algoritmo possui condições e chamadas recursivas, aumentando sua complexidade. Para o código acima, o cálculo aproximado da complexidade ciclomática resulta em **M = 2**, indicando um fluxo de controle simples
 
+## Grafo de Fluxo do Algorítimo
+![Grafo de Fluxo](Images/Grafo.jpg)
+
 ## Contribuições
 Sinta-se à vontade para contribuir com melhorias! Para isso, abra um Pull Request com sugestões .
 
